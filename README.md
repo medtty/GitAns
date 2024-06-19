@@ -1,4 +1,4 @@
-# GitAns: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL | Full Course 2023
+# GitAns: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL
 
 ## Overview
 
@@ -59,7 +59,7 @@ NEXT_PUBLIC_LIVEKIT_URL=
 ```
 
 ## Setup Prisma
-Add MySQL Database (e.g., PlanetScale)
+Add MySQL Database (e.g., SupaBase)
 
 ```sh
 npx prisma generate
