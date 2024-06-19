@@ -1,4 +1,4 @@
-# GitAns: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL
+# GitAns: Next.js 14, React, Socket.io, Prisma, Tailwind, MySQL
 
 ## Overview
 
@@ -26,7 +26,7 @@ In today's world, digital connection influences all areas of our lives, and educ
 
 ## Prerequisites
 
-- Node version 18.x.x
+- Node version 21.x.x
 
 ## Cloning the Repository
 
@@ -49,6 +49,10 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=
 NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=
 
 DATABASE_URL=
+# Connect to Supabase via connection pooling with Supavisor.
+DATABASE_URL=
+# Direct connection to the database. Used for migrations.
+DIRECT_URL=
 
 UPLOADTHING_SECRET=
 UPLOADTHING_APP_ID=
