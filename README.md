@@ -76,14 +76,8 @@ npx prisma db push
 npm run dev
 ```
 
-## Available commands
+# Contact
+If you have any questions or feedback, feel free to reach out to us:
 
-Running commands with npm `npm run [command]`
-
-| command         | description                              |
-| :-------------- | :--------------------------------------- |
-| `dev`           | Starts a development instance of the app |
-
-
-
-GitAns is more than just a platform; it's a community-driven approach to modern education. By leveraging the power of technology and collective knowledge, GitAns is poised to transform learning experiences for students worldwide.
+- [Medtty](medtty@proton.me)
+- [Moskanor](mostapha.boudad.02@gmail.com)
