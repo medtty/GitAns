@@ -31,7 +31,7 @@ In today's world, digital connection influences all areas of our lives, and educ
 ## Cloning the Repository
 
 ```sh
-git clone git@github.com:medtty/GitAns-V2.3.6.git
+git clone https://github.com/medtty/GitAns.git
 ```
 
 ## Install Packages
